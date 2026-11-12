@@ -1,5 +1,8 @@
 ﻿# Custom Whiteout
 
+⚠️ This is a TLD Community Mod, which may or may not be maintained in the future. ⚠️ 
+ 
+
 This is a mod for **The Long Dark** by Hinterland Games Studio, Inc. It allows the player to experience their own custom whiteout game.
 
 
